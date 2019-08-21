@@ -1,1 +1,6 @@
-select * from tblemployee
+
+num1=10
+num2=9
+num3=num1+num2
+print("sum=",num3)
+
