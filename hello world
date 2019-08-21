@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 num1=10
 num2=9
 num3=num1+num2
 print("sum=",num3)
+=======
+this is a changed file.
+>>>>>>> 48a1244e7c61f007cbf3849dace46b6771de107e
 
